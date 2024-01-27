@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{62403F72-008C-4EA9-80E1-51331F441CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApi.Web", "Src\BlazorApi.Web\BlazorApi.Web.csproj", "{A5CB2F0A-DF26-4B7E-9920-3083CAB4427F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Teste", "Teste", "{95780F95-14A9-4762-9658-EF8A7BF6DC53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5CB2F0A-DF26-4B7E-9920-3083CAB4427F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CB2F0A-DF26-4B7E-9920-3083CAB4427F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CB2F0A-DF26-4B7E-9920-3083CAB4427F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CB2F0A-DF26-4B7E-9920-3083CAB4427F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A5CB2F0A-DF26-4B7E-9920-3083CAB4427F} = {62403F72-008C-4EA9-80E1-51331F441CB3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFB175B0-D505-47F4-B00D-C43363C2CBE0}
+	EndGlobalSection
+EndGlobal
